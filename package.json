@@ -21,6 +21,7 @@
   "dependencies": {
     "async": "^1.0.0",
     "debug": "^2.2.0",
+    "msgpack5": "^3.4.1",
     "strong-globalize": "^2.5.8"
   },
   "devDependencies": {

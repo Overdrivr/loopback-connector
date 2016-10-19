@@ -14,3 +14,4 @@ exports.Transaction = require('./lib/transaction');
 
 // KeyValue helpers
 exports.ModelKeyComposer = require('./lib/model-key-composer');
+exports.BinaryPacker = require('./lib/binary-packer');
