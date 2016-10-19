@@ -12,3 +12,5 @@ exports.SQLConnector = exports.SqlConnector = require('./lib/sql');
 exports.ParameterizedSQL = exports.SQLConnector.ParameterizedSQL;
 exports.Transaction = require('./lib/transaction');
 
+// KeyValue helpers
+exports.ModelKeyComposer = require('./lib/model-key-composer');
